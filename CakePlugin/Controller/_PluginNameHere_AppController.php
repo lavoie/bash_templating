@@ -72,7 +72,7 @@ class _PluginNameHere_AppController extends AppController {
 
     // i18n //
 
-    protected function _txtBtn_CtrlNameHere_() { return __d('_pluginNameHere_', '_CrtlNameHere_ list'); } 
+    protected function _txtBtn_CtrlNameHere_() { return __d('_pluginNameHere_', '_CtrlNameHere_ list'); } 
     
     protected function _txtTitle() { return __d('_pluginNameHere_', '_PluginNameHere_ and IP list'); } 
     protected function _txtExForbidden() { return __d('_pluginNameHere_', 'Forbidden action. This is not an error, this is an action that is forbidden for this interface (controller).'); }
