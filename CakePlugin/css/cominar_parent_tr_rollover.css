@@ -1,0 +1,6 @@
+/* css rules for cominar_parent_tr_rollover.js */
+
+tr.cominar-line-hover td {
+    text-decoration: underline;
+}
+
